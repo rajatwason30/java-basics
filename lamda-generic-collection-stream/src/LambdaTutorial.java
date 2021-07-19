@@ -21,7 +21,7 @@ class Product{
     }
 }
 
-public class Main {
+public class LambdaTutorial {
     public static void main(String[] args)
     {
         Addable o=(a,b) -> {
